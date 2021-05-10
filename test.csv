@@ -1,0 +1,297 @@
+,pred,truth
+0,NK cells,CD56+ NK
+1,B cells,CD19+ B
+2,Dendritic cells,Dendritic
+3,CD4 T cells,CD8+ Cytotoxic T
+4,FCGR3A+ Monocytes,CD14+ Monocyte
+5,B cells,CD19+ B
+6,CD4 T cells,CD8+/CD45RA+ Naive Cytotoxic
+7,CD4 T cells,CD4+/CD25 T Reg
+8,FCGR3A+ Monocytes,CD14+ Monocyte
+9,FCGR3A+ Monocytes,Dendritic
+10,CD14+ Monocytes,Dendritic
+11,CD14+ Monocytes,Dendritic
+12,CD4 T cells,CD4+/CD25 T Reg
+13,CD14+ Monocytes,Dendritic
+14,FCGR3A+ Monocytes,Dendritic
+15,Dendritic cells,Dendritic
+16,FCGR3A+ Monocytes,CD8+ Cytotoxic T
+17,CD14+ Monocytes,Dendritic
+18,CD4 T cells,CD19+ B
+19,B cells,CD19+ B
+20,CD14+ Monocytes,Dendritic
+21,FCGR3A+ Monocytes,CD14+ Monocyte
+22,CD4 T cells,CD8+ Cytotoxic T
+23,CD14+ Monocytes,CD14+ Monocyte
+24,FCGR3A+ Monocytes,CD14+ Monocyte
+25,FCGR3A+ Monocytes,CD14+ Monocyte
+26,CD14+ Monocytes,Dendritic
+27,CD14+ Monocytes,Dendritic
+28,B cells,CD19+ B
+29,CD14+ Monocytes,Dendritic
+30,CD14+ Monocytes,Dendritic
+31,CD14+ Monocytes,Dendritic
+32,B cells,Dendritic
+33,CD4 T cells,CD8+ Cytotoxic T
+34,CD14+ Monocytes,Dendritic
+35,FCGR3A+ Monocytes,Dendritic
+36,B cells,Dendritic
+37,CD4 T cells,CD8+ Cytotoxic T
+38,FCGR3A+ Monocytes,CD14+ Monocyte
+39,NK cells,Dendritic
+40,CD8 T cells,CD8+ Cytotoxic T
+41,CD4 T cells,CD19+ B
+42,CD14+ Monocytes,Dendritic
+43,CD14+ Monocytes,CD14+ Monocyte
+44,CD4 T cells,CD19+ B
+45,CD14+ Monocytes,Dendritic
+46,B cells,CD8+ Cytotoxic T
+47,Dendritic cells,Dendritic
+48,B cells,CD19+ B
+49,CD14+ Monocytes,Dendritic
+50,NK cells,CD56+ NK
+51,Dendritic cells,Dendritic
+52,Dendritic cells,Dendritic
+53,CD14+ Monocytes,Dendritic
+54,CD14+ Monocytes,Dendritic
+55,CD4 T cells,CD8+/CD45RA+ Naive Cytotoxic
+56,Dendritic cells,Dendritic
+57,FCGR3A+ Monocytes,CD14+ Monocyte
+58,CD4 T cells,CD8+/CD45RA+ Naive Cytotoxic
+59,CD4 T cells,CD34+
+60,Megakaryocytes,CD34+
+61,CD14+ Monocytes,Dendritic
+62,CD4 T cells,CD34+
+63,CD4 T cells,CD4+/CD45RA+/CD25- Naive T
+64,B cells,CD19+ B
+65,CD14+ Monocytes,Dendritic
+66,CD4 T cells,CD4+/CD45RO+ Memory
+67,Dendritic cells,Dendritic
+68,CD4 T cells,Dendritic
+69,CD4 T cells,CD4+/CD25 T Reg
+70,Dendritic cells,Dendritic
+71,NK cells,Dendritic
+72,B cells,CD19+ B
+73,CD14+ Monocytes,Dendritic
+74,CD14+ Monocytes,Dendritic
+75,CD4 T cells,CD4+/CD45RO+ Memory
+76,CD4 T cells,CD8+ Cytotoxic T
+77,B cells,CD19+ B
+78,CD14+ Monocytes,Dendritic
+79,CD14+ Monocytes,Dendritic
+80,CD4 T cells,CD19+ B
+81,NK cells,CD56+ NK
+82,CD4 T cells,CD4+/CD25 T Reg
+83,CD4 T cells,CD4+/CD25 T Reg
+84,CD4 T cells,CD8+ Cytotoxic T
+85,Dendritic cells,Dendritic
+86,CD4 T cells,CD8+ Cytotoxic T
+87,FCGR3A+ Monocytes,Dendritic
+88,FCGR3A+ Monocytes,CD4+/CD45RO+ Memory
+89,CD14+ Monocytes,Dendritic
+90,FCGR3A+ Monocytes,CD14+ Monocyte
+91,CD14+ Monocytes,Dendritic
+92,CD14+ Monocytes,Dendritic
+93,B cells,Dendritic
+94,B cells,CD19+ B
+95,CD14+ Monocytes,Dendritic
+96,CD14+ Monocytes,Dendritic
+97,CD14+ Monocytes,Dendritic
+98,Dendritic cells,Dendritic
+99,FCGR3A+ Monocytes,CD14+ Monocyte
+100,CD14+ Monocytes,Dendritic
+101,CD14+ Monocytes,Dendritic
+102,FCGR3A+ Monocytes,CD14+ Monocyte
+103,CD8 T cells,CD8+/CD45RA+ Naive Cytotoxic
+104,CD14+ Monocytes,Dendritic
+105,CD14+ Monocytes,CD14+ Monocyte
+106,B cells,CD19+ B
+107,CD4 T cells,CD8+ Cytotoxic T
+108,CD14+ Monocytes,Dendritic
+109,CD14+ Monocytes,CD14+ Monocyte
+110,B cells,CD19+ B
+111,CD14+ Monocytes,Dendritic
+112,B cells,CD19+ B
+113,B cells,CD19+ B
+114,CD14+ Monocytes,Dendritic
+115,B cells,CD19+ B
+116,FCGR3A+ Monocytes,CD14+ Monocyte
+117,NK cells,CD56+ NK
+118,B cells,CD19+ B
+119,CD14+ Monocytes,Dendritic
+120,CD4 T cells,Dendritic
+121,CD4 T cells,CD4+/CD25 T Reg
+122,CD14+ Monocytes,Dendritic
+123,CD14+ Monocytes,Dendritic
+124,CD14+ Monocytes,Dendritic
+125,B cells,CD19+ B
+126,Dendritic cells,Dendritic
+127,CD4 T cells,CD4+/CD45RA+/CD25- Naive T
+128,NK cells,CD56+ NK
+129,Dendritic cells,Dendritic
+130,CD4 T cells,CD8+/CD45RA+ Naive Cytotoxic
+131,CD4 T cells,CD8+/CD45RA+ Naive Cytotoxic
+132,B cells,CD19+ B
+133,CD14+ Monocytes,Dendritic
+134,Dendritic cells,Dendritic
+135,CD4 T cells,CD8+ Cytotoxic T
+136,CD4 T cells,CD4+/CD45RA+/CD25- Naive T
+137,FCGR3A+ Monocytes,CD14+ Monocyte
+138,CD14+ Monocytes,CD14+ Monocyte
+139,CD4 T cells,CD4+/CD25 T Reg
+140,CD14+ Monocytes,Dendritic
+141,CD4 T cells,CD4+/CD25 T Reg
+142,Dendritic cells,Dendritic
+143,B cells,CD19+ B
+144,FCGR3A+ Monocytes,Dendritic
+145,NK cells,CD8+ Cytotoxic T
+146,CD14+ Monocytes,Dendritic
+147,FCGR3A+ Monocytes,CD14+ Monocyte
+148,FCGR3A+ Monocytes,CD14+ Monocyte
+149,CD14+ Monocytes,Dendritic
+150,CD14+ Monocytes,Dendritic
+151,CD14+ Monocytes,Dendritic
+152,CD4 T cells,CD4+/CD45RO+ Memory
+153,CD4 T cells,CD4+/CD25 T Reg
+154,B cells,CD19+ B
+155,CD14+ Monocytes,Dendritic
+156,FCGR3A+ Monocytes,CD14+ Monocyte
+157,CD14+ Monocytes,Dendritic
+158,CD14+ Monocytes,Dendritic
+159,CD14+ Monocytes,Dendritic
+160,B cells,Dendritic
+161,CD4 T cells,CD4+/CD45RO+ Memory
+162,CD14+ Monocytes,Dendritic
+163,CD14+ Monocytes,Dendritic
+164,CD14+ Monocytes,Dendritic
+165,CD14+ Monocytes,Dendritic
+166,NK cells,CD56+ NK
+167,CD14+ Monocytes,Dendritic
+168,CD14+ Monocytes,Dendritic
+169,CD14+ Monocytes,Dendritic
+170,FCGR3A+ Monocytes,Dendritic
+171,CD14+ Monocytes,Dendritic
+172,CD4 T cells,CD8+ Cytotoxic T
+173,CD8 T cells,CD8+/CD45RA+ Naive Cytotoxic
+174,CD14+ Monocytes,Dendritic
+175,CD4 T cells,CD14+ Monocyte
+176,CD4 T cells,CD4+/CD45RO+ Memory
+177,CD14+ Monocytes,Dendritic
+178,CD14+ Monocytes,CD14+ Monocyte
+179,B cells,CD34+
+180,NK cells,CD8+ Cytotoxic T
+181,B cells,CD19+ B
+182,CD14+ Monocytes,Dendritic
+183,CD4 T cells,CD4+/CD25 T Reg
+184,Dendritic cells,Dendritic
+185,CD14+ Monocytes,Dendritic
+186,CD14+ Monocytes,Dendritic
+187,FCGR3A+ Monocytes,Dendritic
+188,Dendritic cells,Dendritic
+189,CD8 T cells,CD8+/CD45RA+ Naive Cytotoxic
+190,CD14+ Monocytes,Dendritic
+191,B cells,CD19+ B
+192,CD4 T cells,CD4+/CD25 T Reg
+193,CD4 T cells,CD4+/CD25 T Reg
+194,B cells,CD8+ Cytotoxic T
+195,CD4 T cells,CD8+/CD45RA+ Naive Cytotoxic
+196,CD14+ Monocytes,CD14+ Monocyte
+197,CD14+ Monocytes,Dendritic
+198,FCGR3A+ Monocytes,CD14+ Monocyte
+199,CD14+ Monocytes,CD14+ Monocyte
+200,CD14+ Monocytes,Dendritic
+201,CD14+ Monocytes,Dendritic
+202,CD14+ Monocytes,Dendritic
+203,Dendritic cells,Dendritic
+204,CD14+ Monocytes,Dendritic
+205,NK cells,CD56+ NK
+206,CD14+ Monocytes,Dendritic
+207,Dendritic cells,CD14+ Monocyte
+208,CD4 T cells,CD4+/CD25 T Reg
+209,FCGR3A+ Monocytes,CD14+ Monocyte
+210,NK cells,CD56+ NK
+211,CD14+ Monocytes,Dendritic
+212,B cells,CD19+ B
+213,NK cells,CD8+ Cytotoxic T
+214,Dendritic cells,Dendritic
+215,FCGR3A+ Monocytes,Dendritic
+216,CD14+ Monocytes,Dendritic
+217,B cells,CD34+
+218,CD14+ Monocytes,Dendritic
+219,NK cells,Dendritic
+220,NK cells,CD56+ NK
+221,CD14+ Monocytes,Dendritic
+222,CD14+ Monocytes,Dendritic
+223,CD4 T cells,CD4+/CD25 T Reg
+224,B cells,CD19+ B
+225,CD4 T cells,CD4+/CD45RO+ Memory
+226,CD4 T cells,CD19+ B
+227,CD4 T cells,CD14+ Monocyte
+228,Dendritic cells,Dendritic
+229,CD8 T cells,CD8+ Cytotoxic T
+230,B cells,CD19+ B
+231,CD14+ Monocytes,Dendritic
+232,CD14+ Monocytes,Dendritic
+233,CD14+ Monocytes,Dendritic
+234,CD4 T cells,CD8+ Cytotoxic T
+235,B cells,Dendritic
+236,CD14+ Monocytes,Dendritic
+237,CD4 T cells,CD4+/CD25 T Reg
+238,CD14+ Monocytes,Dendritic
+239,B cells,CD19+ B
+240,FCGR3A+ Monocytes,CD14+ Monocyte
+241,CD4 T cells,CD4+/CD25 T Reg
+242,CD14+ Monocytes,Dendritic
+243,B cells,CD19+ B
+244,CD14+ Monocytes,Dendritic
+245,CD4 T cells,CD14+ Monocyte
+246,CD4 T cells,CD34+
+247,CD4 T cells,CD4+/CD25 T Reg
+248,NK cells,CD8+ Cytotoxic T
+249,CD14+ Monocytes,Dendritic
+250,CD4 T cells,CD14+ Monocyte
+251,CD4 T cells,CD4+/CD25 T Reg
+252,CD14+ Monocytes,Dendritic
+253,CD14+ Monocytes,Dendritic
+254,CD4 T cells,CD4+/CD25 T Reg
+255,FCGR3A+ Monocytes,CD14+ Monocyte
+256,CD8 T cells,CD8+ Cytotoxic T
+257,B cells,CD19+ B
+258,FCGR3A+ Monocytes,Dendritic
+259,NK cells,CD56+ NK
+260,CD14+ Monocytes,Dendritic
+261,FCGR3A+ Monocytes,Dendritic
+262,CD4 T cells,CD8+/CD45RA+ Naive Cytotoxic
+263,CD14+ Monocytes,Dendritic
+264,CD8 T cells,CD8+ Cytotoxic T
+265,B cells,CD19+ B
+266,CD14+ Monocytes,Dendritic
+267,CD4 T cells,CD14+ Monocyte
+268,CD4 T cells,CD4+/CD45RO+ Memory
+269,CD8 T cells,CD8+ Cytotoxic T
+270,NK cells,CD56+ NK
+271,CD14+ Monocytes,Dendritic
+272,CD4 T cells,CD4+/CD25 T Reg
+273,CD14+ Monocytes,Dendritic
+274,FCGR3A+ Monocytes,Dendritic
+275,CD4 T cells,CD4+/CD25 T Reg
+276,CD4 T cells,CD4+/CD25 T Reg
+277,NK cells,CD56+ NK
+278,B cells,CD4+/CD45RA+/CD25- Naive T
+279,CD14+ Monocytes,Dendritic
+280,NK cells,CD56+ NK
+281,CD4 T cells,CD4+/CD25 T Reg
+282,Dendritic cells,Dendritic
+283,FCGR3A+ Monocytes,CD14+ Monocyte
+284,Dendritic cells,Dendritic
+285,CD14+ Monocytes,Dendritic
+286,FCGR3A+ Monocytes,CD14+ Monocyte
+287,NK cells,CD14+ Monocyte
+288,CD4 T cells,CD4+/CD25 T Reg
+289,CD14+ Monocytes,Dendritic
+290,CD14+ Monocytes,Dendritic
+291,CD8 T cells,CD56+ NK
+292,B cells,CD19+ B
+293,CD14+ Monocytes,Dendritic
+294,FCGR3A+ Monocytes,CD14+ Monocyte
+295,CD14+ Monocytes,Dendritic
